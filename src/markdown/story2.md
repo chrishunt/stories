@@ -3,7 +3,7 @@ path: "/story2"
 date: "2019-01-20"
 title: "SF, Merced River"
 subtitle: "Dead ends, dogs, and gravel roads"
-cover_image: "./story1/02.jpg"
+cover_image: "./story2/02.jpg"
 ---
 
 <div class='text'>
@@ -19,7 +19,7 @@ as planned.
 
 </div>
 
-![](story1/02.jpg)
+![](story2/02.jpg)
 
 <div class='text'>
 
@@ -30,9 +30,9 @@ we hit up the next morning.
 
 </div>
 
-![](story1/01.jpg)
+![](story2/01.jpg)
 
-![](story1/03.jpg)
+![](story2/03.jpg)
 
 <div class='text'>
 
@@ -50,7 +50,7 @@ slept.
 
 </div>
 
-![](story1/04.jpg)
+![](story2/04.jpg)
 
 <div class='text'>
 
@@ -59,7 +59,7 @@ darkness was a theme of the trip.
 
 </div>
 
-![](story1/05.jpg)
+![](story2/05.jpg)
 
 <div class='text'>
 
@@ -72,4 +72,4 @@ about making coffee, and hit the gravel road back to Interstate 5 for the last
 
 </div>
 
-![](story1/06.jpg)
+![](story2/06.jpg)
