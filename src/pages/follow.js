@@ -39,13 +39,7 @@ const FollowPage = () => (
       there's something new to read.
     </p>
     <p>
-      <form
-        name="follow"
-        method="POST"
-        action="/success/"
-        data-netlify="true"
-        data-netlify-honeypot="bot-field"
-      >
+      <form name="follow" method="POST" action="/success/" data-netlify="true" data-netlify-honeypot="bot-field">
         <p>
           <input
             type="email"
