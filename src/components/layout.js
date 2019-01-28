@@ -22,16 +22,18 @@ const Layout = ({ children }) => (
         <div
           style={{
             margin: `0 auto`,
-            maxWidth: 960,
+            maxWidth: `2000px`,
             padding: `0px 1.0875rem 1.45rem`,
             paddingTop: 0,
           }}
         >
           {children}
           <footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
+            <div className="text">
+              © {new Date().getFullYear()} chris hunt &middot;
+              {` `}
+              <a href="/">read more stories</a>
+            </div>
           </footer>
         </div>
       </>

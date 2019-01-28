@@ -1,21 +1,81 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import { graphql } from "gatsby"
 
 import Layout from '../components/layout'
-import Image from '../components/image'
+import Avatar from '../components/avatar'
 import SEO from '../components/seo'
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
+import StoryLink from "../components/story-link"
+
+const IndexPage = ({
+  data: {
+    allMarkdownRemark: { edges },
+  },
+}) => {
+  const Stories = edges
+    .filter(edge => !!edge.node.frontmatter.date)
+    .map(edge => <StoryLink key={edge.node.id} post={edge.node} />)
+
+  return <Layout>
+    <SEO title='Stories' keywords={
+      [`adventure`, `overland`, `blog`, `outdoors`, `tacoma`, `offroad`]
+    } />
+    <div className="text title" style={{
+        textAlign: `center`,
+      }}
+    >
+      <p>
+        <div
+          style={{
+            width: `150px`,
+            marginLeft: `auto`,
+            marginRight: `auto`,
+          }}
+        >
+          <a href='/'><Avatar /></a>
+        </div>
+      </p>
+      <h1>Chris Hunt</h1>
+      <h4>
+        <a href="/follow">subscribe</a>
+        {` `} &middot; {` `}
+        <a href="https://www.instagram.com/huntca/">instagram</a>
+      </h4>
+      <p>
+        Stuck in the woods, please send help or batteries
+      </p>
+      <div className="stories">
+        {Stories}
+      </div>
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
   </Layout>
-)
+}
 
 export default IndexPage
+
+export const pageQuery = graphql`
+  query {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+      edges {
+        node {
+          id
+          excerpt(pruneLength: 250)
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            path
+            title
+            subtitle
+            cover_image {
+              publicURL
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`
