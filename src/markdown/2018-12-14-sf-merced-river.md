@@ -249,8 +249,10 @@ I'm glad we made it out here to explore a bit, but doubt we'll visit this area
 again. It was too close to houses and parks to have a lot of options for
 exploring. It's the kind of place you visit, then never visit again.
 
-If you enjoyed this and want to get an email the next time I post something,
-[subscribe here](/follow/).
+---
+
+If you'd like to get an email the next time I post something, [subscribe
+here](/follow/).
 
 </div>
 

@@ -292,8 +292,10 @@ just stuff we want to bolt onto the truck). We got home with this list:
   ([trasharoo](http://www.trasharoo.com/TRASHAROO%20/About.html) or similar?)
 - Get a fire extinguisher
 
-If you enjoyed this and want to get an email the next time I post something,
-[subscribe here](/follow/).
+---
+
+If you'd like to get an email the next time I post something, [subscribe
+here](/follow/).
 
 </div>
 
