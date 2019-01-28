@@ -41,9 +41,7 @@ const IndexPage = ({
         {` `} &middot; {` `}
         <a href="https://www.instagram.com/huntca/">instagram</a>
       </h4>
-      <p>
-        Stuck in the woods, please send help or batteries
-      </p>
+      <p></p>
       <div className="stories">
         {Stories}
       </div>
