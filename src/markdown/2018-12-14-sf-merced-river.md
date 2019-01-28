@@ -8,8 +8,6 @@ cover_image: "../images/2018-12-14-merced-river/15.jpg"
 
 <div class='text'>
 
-## Return to film
-
 So I decided to sell my digital gear again and I'm back on film. Call me a
 hipster, but it's more fun and taking photos is basically the only reason I go
 out to pretty places on the truck and bike (also, I'm a hipster). This means
