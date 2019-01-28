@@ -72,6 +72,10 @@ form button:hover {
   margin-bottom: 3rem;
 }
 
+.bot-field {
+  display: none;
+}
+
 @media only screen and (max-width: 900px) {
   .story-container {
     padding: 0;

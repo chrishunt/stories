@@ -56,7 +56,7 @@ const FollowPage = () => (
         <p>
           <button type="submit">Subscribe</button>
         </p>
-        <input type="hidden" name="bot-field" />
+        <p class="bot-field"><input name="bot-field" /></p>
       </form>
     </p>
   </div>
