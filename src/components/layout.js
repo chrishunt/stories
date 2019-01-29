@@ -30,9 +30,9 @@ const Layout = ({ children }) => (
           {children}
           <footer>
             <div className="text">
-              © {new Date().getFullYear()} chris hunt &middot;
+              stories by chris &rarr;
               {` `}
-              <a href="/">read more stories</a>
+              <a href="/">read more</a>
             </div>
           </footer>
         </div>
