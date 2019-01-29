@@ -3,7 +3,7 @@ path: "/sf-merced-river"
 date: "2018-12-14"
 title: "SF, Merced River"
 subtitle: "Dead ends, dogs, and gravel roads"
-cover_image: "../images/2018-12-14-merced-river/15.jpg"
+cover_image: "../images/2018-12-14-merced-river/cover.jpg"
 ---
 
 <div class='text'>
