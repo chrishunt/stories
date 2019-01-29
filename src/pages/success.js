@@ -37,8 +37,7 @@ const SuccessPage = () => (
       <em>Thanks for following!</em>
     </p>
     <p>
-      You'll be receiving an email soon to confirm your
-      subscription.
+      I'll be sure to send you an email next time I post a story.
     </p>
   </div>
   </Layout>
