@@ -27,7 +27,7 @@ const IndexPage = ({
       <p>
         <div
           style={{
-            width: `150px`,
+            width: `80px`,
             marginLeft: `auto`,
             marginRight: `auto`,
           }}
