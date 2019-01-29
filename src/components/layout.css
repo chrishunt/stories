@@ -55,6 +55,16 @@ form button:hover {
   line-height: 1.618rem; /* the 'golden ratio' :) */
 }
 
+.story hr {
+  color: #ddd;
+  background-color: #ddd;
+  width: 100px;
+  height:1px;
+  border: none;
+  text-align:center;
+  margin: 1rem auto;
+}
+
 .title h1, .title h2, .title h3, .title h5, .title h4 {
   padding: 0;
   margin-bottom: 0.5rem;
