@@ -4,8 +4,7 @@ body a {
 }
 
 body a:hover {
-  color: #e29424;
-  text-decoration: underline;
+  color: #bd7b1e;
 }
 
 form input {
@@ -24,7 +23,7 @@ form button {
 }
 
 form button:hover {
-  opacity: 0.8;
+  background-color: #bd7b1e;
 }
 
 .stories {
