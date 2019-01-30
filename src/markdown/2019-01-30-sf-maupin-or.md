@@ -4,7 +4,7 @@ date: "2019-01-30"
 title: "SF, Maupin, OR"
 subtitle: "24 days, 3 trips, 2 ticks, 1 found dog"
 cover_image: "../images/2019-01-30-sf-maupin-or/cover.jpg"
-published: false
+published: true
 ---
 
 <div class='text'>
