@@ -39,6 +39,11 @@ clinic in Seattle, Washington (along with a bunch of other wondering dogs).
 This is where we adopted him 8 years ago and named him Baxter. We've had him
 since and have moved from Seattle to SF to Portland and now back to to SF.
 
+We always tell this story about Baxter because it makes him sounds like a
+badass. He's a survivor. In reality, however, we call him "Couch Dog" and
+secretly think that he wouldn't do that well if tossed into a tornado today.
+We were wrong!
+
 </div>
 
 ![](../images/2019-01-30-sf-maupin-or/00-1.jpg)
@@ -47,9 +52,10 @@ since and have moved from Seattle to SF to Portland and now back to to SF.
 
 ## The first sign of hope
 
-A bit over a week ago (Friday 1/18), I was at work in the city and got a call
-on my cell from a number I didn't recognize. The area code was Bend Oregon so I
-answered hoping it was someone calling about Baxter... and it was.
+Baxter has been lost for almost a month, but a bit over a week ago (Friday
+1/18), I was at work in the city and got a call on my cell from a number I
+didn't recognize. The area code was Bend Oregon so I answered hoping it was
+someone calling about Baxter... and it was.
 
 </div>
 
@@ -58,9 +64,9 @@ answered hoping it was someone calling about Baxter... and it was.
 <div class='text'>
 
 The person on the phone, who I later learned was Grayson, told me that he lives
-and works on some private/gated land just South of where we lost Baxter. He
-said that he's pretty sure he saw him twice, but couldn't get close enough to
-take a photo. The dog was scared and growled anytime he approached.
+and works on private/gated land just South of where we lost Baxter. He said
+that he's pretty sure he saw him twice, but couldn't get close enough to take a
+photo. The dog was scared and growled anytime he approached.
 
 I took down Grayson's information, called Louisa, and we got in the truck
 immediately to head back to Maupin. We both had a 3-day weekend, so the timing
@@ -82,9 +88,8 @@ here's a pretty photo of where we camped the next night:
 
 There's no cell service in the area, so we called Grayson's home phone as we
 approached Maupin and setup a time to meet at the locked gate just South of
-where we lost Baxter. We didn't sleep too well the night before because we were
-so stoked on finding the dog and also because we were sleeping in a Walmart
-parking lot.
+where we lost Baxter. We didn't sleep too well the night before - we were so
+stoked on the possibility of finding the dog.
 
 We rolled up to the gate a bit early, but Grayson was already waiting for us in
 his truck. He was early the next day as well, but let's not get ahead of
@@ -98,9 +103,10 @@ ourselves.
 
 Beyond this locked gate, the road continues for about another 45 minutes, then
 terminates at a railroad track and a bridge. There's a very small "town" called
-North Junction just below this bridge. I use the term "town" loosely here
-because it's actually a collection of about 5-7 houses and nobody actually
-lives there.
+North Junction just below this bridge. This town is an old paymaster station
+and is littered beautifully with old railroad equipment and railroad cars. I
+use the term "town" loosely here because it's actually a collection of about
+5-7 houses and nobody actually lives there.
 
 </div>
 
@@ -113,8 +119,8 @@ to get mail here. It's as if someone flew over the middle of nowhere in a cargo
 airplane and dropped some random houses from all over the United States onto
 this piece of land, then sprinkled some super cool looking railroad equipment
 between the houses. The nearest grocery store is Maupin, which is at least 90
-minutes if you're not rushing. Don't get me wrong though, we *loved* it and you
-probably would too.
+minutes if you're not rushing. All that said, we *loved* it here and wouldn't
+mind visiting again!
 
 </div>
 
@@ -122,22 +128,26 @@ probably would too.
 
 <div class='text'>
 
-Now Grayson doesn't live at North Junction, but he's very familiar with the
+Now, Grayson doesn't live at North Junction, but he's very familiar with the
 area. He's the caretaker for this private road and the only person that lives
 behind the locked gate full-time (him, his wife, and dogs). He drives the
 entire length of the road multiple times every day to clean up rocks, check on
 the houses, look for lost campers/rafters, and generally just keep his eyes
 open for stuff (like a lost dog named Baxter, for example).
 
-Grayson had seen Baxter Friday morning at a house along the road. He left some
-food out and gave us a call. He then drove down past that house to North
-Junction because he suspected that Baxter might be heading down that way. There
-was a couple from Portland staying down there for the weekend and he asked them
-to keep their eyes open. Grayson carried a copy of the "lost dog" flyer in his
-truck so he could show it to people.
+Grayson called us because he had seen Baxter Friday morning at a house along
+the road. He left some food just in case the dog decided to come back. He then
+drove down past that house to North Junction because he suspected that Baxter
+might be heading down that way. The dog appeared to be following the road
+South.
 
-That night Baxter was spotted at North Junction - twice in the same day! Things
-were looking good.
+Nobody really lives at North Junction, but a couple from Portland was staying
+down there for the weekend and Grayson asked them to keep their eyes open. He
+carried a copy of the "lost dog" flier in his truck so he could show it to
+people.
+
+That night the couple spotted Baxter at North Junction. Things were looking
+good.
 
 </div>
 
@@ -151,6 +161,12 @@ night before. It was raining heavily, so we had to stop a couple times to move
 rocks out of the road. It took us around an hour to drive the length of the
 road and we passed through a couple neat looking tunnels.
 
+</div>
+
+![](../images/2019-01-30-sf-maupin-or/04.jpg)
+
+<div class='text'>
+
 When we reached North Junction, I guess Louisa and I were hoping that we would
 get out of the truck and Baxter would just come running towards us (barking and
 squeaking as he normally does). This isn't what happened unfortunately.
@@ -158,17 +174,12 @@ Instead, we arrived at North Junction and saw nothing. We yelled Baxter's name.
 We checked under every porch and house. We walked the railroad tracks. We
 looked for footprints or poop. We saw nothing.
 
-Grayson was there with us the entire tire helping us look. He seemed to be
+Grayson was there with us the entire time helping us look. He seemed to be
 going really out of his way and we can't thank him enough. You're amazing
 Grayson! We couldn't find Baxter at North Junction and the sun was starting to
 set, so we heading back towards the locked gate in the trucks and stopped at
 every house along the way to see if Baxter might have backtracked.
 
-</div>
-
-![](../images/2019-01-30-sf-maupin-or/04.jpg)
-
-<div class='text'>
 
 We didn't find Baxter that day, but Grayson offered to meet us the next morning
 at the gate so we could try again. We said our goodbyes, drove a few minutes
@@ -184,8 +195,8 @@ resume the search.
 ## Let's try again tomorrow
 
 We slept a bit better that night (or at least I did). The morning was quick. Up
-at 7, then a short drive to the locked gate, then coffee while waiting
-for Grayson. He got there a bit early again and let us inside.
+at 7, then a short drive to the locked gate, then coffee while waiting for
+Grayson. He got there a bit early again and led us through the gate.
 
 </div>
 
@@ -194,11 +205,12 @@ for Grayson. He got there a bit early again and let us inside.
 <div class='text'>
 
 This day was much like the day before it. We headed directly to North Junction
-at the end of the road, cleared up rocks along the way, and started our search
-for Baxter. Most searching is on foot because there's just this one road that
-passes through the area. We again searched under all the houses and porches.
-We searched near the water. We walked down the railroad tracks even further.
-We called his name and yelled some of his favorite words (... like "treats").
+at the end of the road, cleared rocks along the way, and started our search for
+Baxter. Most of our searching was on foot because there's just this one road
+that passes through the area. We again searched under all the houses and
+porches.  We searched near the water. We walked down the railroad tracks even
+further.  We called his name and yelled some of his favorite words (... like
+"treats").
 
 </div>
 
@@ -226,9 +238,10 @@ first time. We both tried not to get our hopes up, but when Bax was spotted
 twice in the same day just a few hours before we arrived, it's tough to ignore.
 
 If nothing else, it was amazing to hear that he was still out there walking
-around and doing his own thing. It had been 21 days since we lost him and we
-figured he was long gone by now. He was finding ways to eat, drink, and avoid
-the giant cats and angry badgers.
+around and doing his own thing. It had been 21 days at that point since we lost
+him and we figured he was long gone by now. This was the first time we got a
+phone call. He was finding ways to eat, drink, stay warm, and avoid the giant
+cats and angry badgers.
 
 </div>
 
@@ -240,8 +253,8 @@ the giant cats and angry badgers.
 
 The drive back to SF takes two days. We know this now because we've done it so
 many times. We decided to head two hours South to Bend, then stop for the
-night.  Going further wasn't a great idea because it would just keep getting
-colder and colder, which isn't great for camping.
+night.  Going further wasn't a great idea for us because it would just keep
+getting colder and colder, which isn't ideal for camping.
 
 </div>
 
@@ -249,10 +262,10 @@ colder and colder, which isn't great for camping.
 
 <div class='text'>
 
-We drove 20 minutes East of Bend towards Four Corners and found a secluded spot
-to camp. It was close to several OHV areas, so we could hear bikes ripping in
-the distance. Louisa got the camp fire going and I got the dinner going. Louisa
-also got the wine going.
+We drove 20 minutes East of Bend towards Four Corners and parked in a secluded
+spot to camp. It was close to several OHV areas, so we could hear bikes ripping
+in the distance. Louisa got the camp fire going and I got the dinner going.
+Louisa also got the wine going.
 
 </div>
 
@@ -297,9 +310,9 @@ get outside, it rings again and this time someone is on the phone. His name is
 Jeremy and he's an animal trapper in Maupin. He catches coyotes. He said he
 caught a dog named Baxter.
 
-[As I walk](https://www.instagram.com/forawalk/) home through China Town in SF,
-I'm listening to Jeremy tell me the story of how he found this dog. I just so
-happen to take photos as I walk home.
+As I walk home through China Town in SF, I'm listening to Jeremy tell me the
+story of how he found this dog. I just so happen to take photos [as I walk](
+https://www.instagram.com/forawalk/) home:
 
 </div>
 
@@ -320,7 +333,7 @@ Jeremy said that this ranch, and Central Oregon in general, has a bit of a
 coyote problem. There are too many of them and they have lice. On top of that,
 the state is trying to re-introduce wild birds into the area and the coyotes
 keep killing them. The coyotes do have some predators (giant cats mostly), but
-there's not enough to keep the population down.
+there's not enough of them to keep the population down.
 
 </div>
 
@@ -329,10 +342,11 @@ there's not enough to keep the population down.
 <div class='text'>
 
 Jeremy has been laying traps on this ranch to catch coyotes and move them
-elsewhere, but these traps are also pretty good at catching dogs or anything
-else with a foot. The traps have been adjusted so that if, for example, a ranch
-dog steps into one, they won't get severely injured. It probably feels a bit
-like slamming your hand in a car door, but no broken bones or broken skin.
+elsewhere. These traps don't really care if you're a coyote, however. They are
+also pretty good at catching dogs or anything else with a foot. The traps have
+been adjusted so that if a ranch dog steps into one, they won't get severely
+injured. It probably feels a bit like slamming your hand in a car door, but no
+broken bones or broken skin.
 
 Every day (or every other day) Jeremy drives around the ranch and checks his
 traps for animals. Yesterday this trap was empty. Today he rolls up to find a
@@ -346,15 +360,16 @@ brown dog standing there.  He doesn't recognize the dog and the dog is scared
 <div class='text'>
 
 He releases the trap and tries to put the dog in his truck. He can't get a good
-hold on the dog because he's not wearing a collar. Jeremy has his own dogs with
-him, so he takes off one of their collars and tries to put it on the dog he
-found in the trap. The dog is pissed and not interested in wearing a collar -
-he just keeps biting it.
+hold on the dog because he's not wearing a collar. Jeremy happens to have his
+own dogs with him, so he takes off one of their collars and tries to put it on
+the dog he found in the trap. The dog is pissed and not interested in wearing a
+collar - he just keeps biting it.
 
-The dog looks hungry (read: *skinny*), so Jeremy has an idea. He reaches into
-the truck and shares some of his homemade jerky. The dog loves it, so he shares
-more. Then he shares more. And 30 minutes later Jeremy has shared all of his
-jerky. The dog is now his best friend and jumps up into the truck on his own.
+The brown dog looks hungry (read: *skinny*), so Jeremy has an idea. He reaches
+into the truck and shares some of his homemade jerky. The dog loves it, so he
+shares more. Then he shares more. And 30 minutes later Jeremy has shared all of
+his jerky. The dog is now his best friend and jumps up into the truck on his
+own.
 
 </div>
 
@@ -365,8 +380,8 @@ jerky. The dog is now his best friend and jumps up into the truck on his own.
 With his new friend now in the truck, Jeremy starts the drive back towards the
 ranch manager's house. The ranch manager's name is Craig. It's possible that
 maybe this dog is from a neighboring ranch and Craig may know where he lives.
-If nothing else, Craig would probably know the phone numbers of the nearby
-ranches and could give them a call.
+If Craig doesn't know where this dog lives, he probably knows the phone numbers
+of the nearby ranches and can start making some calls.
 
 On the way to Craig's house, Jeremy grabs a quick selfie with the dog and posts
 it to Facebook. Anyone recognize this dog??
@@ -382,8 +397,8 @@ it to Facebook. Anyone recognize this dog??
 The response to Jeremy's post on Facebook was swift and plentiful. Many people
 (who we've never met) identified the dog as Baxter and provided our contact
 information. They recognized his face from other posts on social media and from
-fliers that were shared around town. Jeremy did not see these messages,
-however, because cell service isn't that great out there in Maupin.
+fliers that were shared around town in Maupin. Jeremy did not see these
+messages, however, because cell service isn't that great on the ranch.
 
 </div>
 
@@ -392,10 +407,10 @@ however, because cell service isn't that great out there in Maupin.
 <div class='text'>
 
 When Jeremy arrived at the ranch manager's house, he left the dog with Craig
-and Craig left the dog on a bed on the porch so he could finish up some work
-outside. The dog's foot was hurting from the trap, so he was happy to stay put
-for a while. Also - he just ate a ton of beef jerky so heck ya he'll stay
-around!
+and Craig put the dog on a bed on the porch and left to finish up some work
+outside on the ranch. The dog's foot was hurting from the trap, so he was happy
+to stay put for a while. Also - he just ate a ton of beef jerky so heck ya
+he'll stay around!
 
 Jeremy started the drive home and quickly returned to cell service once he left
 the ranch. His phone started blowing up. He got a call from a friend who
@@ -409,7 +424,7 @@ and here we are hearing the story.
 
 <div class='text'>
 
-## Here I come Bax!
+## Here we come Bax
 
 After I got off the phone with Jeremy, I immediately called ranch manager Craig
 to setup a time to pickup Baxter. His ranch is just outside Maupin. I told him
@@ -431,12 +446,12 @@ his porch while doing some errands around the ranch... probably not a big deal
 and he was pretty sure he was still there. I mean, no big deal right? In
 retrospect, Craig said he would have put the dog in a crate or his house if he
 knew the story, but this was just some random dog and he had no idea he was
-walking around on his own for 24 days.
+walking around lost without his people for 24 days.
 
-I'm still talking to Craig on the phone and he's about an hour away from the
-porch that probably has Baxter on it. He said he'd give me call when he got
-home to confirm that he still had him. *This was probably the longest hour ever
-:)*
+I'm still talking to Craig on the phone at this point and he's about an hour
+away from the porch that probably has Baxter on it. He said he'd give me call
+when he got home to confirm that he still had him. *This was probably the
+longest hour ever :)*
 
 </div>
 
@@ -444,14 +459,14 @@ home to confirm that he still had him. *This was probably the longest hour ever
 
 <div class='text'>
 
-## Third time with "the call"
+## Third time's a charm
 
 After I got off the phone with Craig, I stopped taking photos of my walk home
 and started jogging instead. I packed the truck, made dinner, and danced around
 the apartment with Louisa. I talked with folks at work and decided to take the
 rest of the week off so I could leave immediately for Maupin. Louisa's job is
-slightly less flexible (she's a high school teacher), so we decided that I
-would do this trip solo.
+slightly less flexible in that regard (she's a high school teacher), so we
+decided that I would do this trip solo.
 
 </div>
 
@@ -461,15 +476,16 @@ would do this trip solo.
 
 Just as I was about to jump into the horrible San Francisco traffic and start
 the drive North, I got the call from Craig. We were expecting this call - it
-had been about an hour since we last talked. Craig said that he was home and
-Baxter was exactly where he left him: on a bed on the porch. YAY!
+had been about an hour since we last talked and we wanted to know if he still
+had Baxter. Craig said that he just got home and the dog was exactly where he
+left him: on a bed on the porch. YAY!
 
-We talked a bit about logistics and Craig recommends that we give Baxter to his
-friend Art who lives in Bend. Art has been working on the ranch a while and
-handles their security. Art also happens to leave the ranch every evening and
-head home to Bend. He's got a nice (fenced) yard for Baxter, a friendly yellow
-labrador, and he lives 90 minutes closer to San Francisco than Craig. This
-sounded like a great idea to me.
+I talked a bit with Craig on the phone about logistics and he recommends that
+we give Baxter to his friend Art, who lives in Bend. Art has been working on
+the ranch a while and handles their security. Art also happens to leave the
+ranch every evening and head home to Bend Oregon. He's got a nice (fenced) yard
+for Baxter, a friendly yellow labrador, and he lives 90 minutes closer to San
+Francisco than Craig. This sounded like a great idea to me as well.
 
 </div>
 
@@ -482,12 +498,13 @@ sounded like a great idea to me.
 So Baxter was picked up by Jeremy, delivered to Craig, and just handed off to
 Art - who's on his way to Bend. I'm driving from San Francisco and should be
 there in about 11 hours. That's not counting my 6 hours of sleep in the Walmart
-parking near Redding.
+parking lot near Redding.
 
 My phone rings during the drive and it's Art, the person who now has Baxter.
-Just like Jeremy, Craig, and Grayson, Art is extremely nice and really going
-out of his way to help us get Baxter home. He's recommending places to stay
-along the way and letting me know that Baxter will be safe until I get there.
+Just like Jeremy, Craig, and Grayson, Art is extremely nice and seems to be
+really going out of his way to help us get Baxter home. He recommended a few
+places to stay along the way and let me know that Baxter will be safe until I
+get there.
 
 </div>
 
@@ -496,10 +513,10 @@ along the way and letting me know that Baxter will be safe until I get there.
 <div class='text'>
 
 Art tells me on the phone that Baxter has been super nice and jumped into his
-truck without hesitation, but unfortunately will not get out his truck. He
-won't go into Art's house. Typical Baxter move right there. Art decided to
-leave Baxter in the truck overnight outside his house. He went out a few times
-during the night to run the heater and give him some food and water.
+truck without hesitation, but unfortunately will not get out his truck. The dog
+won't go into his house. Typical Baxter move right there. Art decided to leave
+Baxter in the truck overnight outside his house. He went out a few times to run
+the heater, check on him, and give him some food and water.
 
 </div>
 
@@ -509,7 +526,7 @@ during the night to run the heater and give him some food and water.
 
 ## The handoff
 
-Today's the day! Just as I get close to Bend, my phone rings again. It's Art.
+Today's the day. Just as I get close to Bend, my phone rings again. It's Art.
 Baxter is still in the truck and still won't get out. Art needs to head to the
 ranch in Maupin to get some work done, so Baxter gets to come along for the
 ride. Nice!
@@ -517,7 +534,7 @@ ride. Nice!
 To help make things a bit easier for Art, I offer to drive closer to the ranch
 instead of meeting him in Bend. We decide on Madras, which is a 10-15 minutes
 away from the ranch. I meet Art and Baxter in the McDonalds parking lot in
-Madras. I took some video with my phone.
+Madras and we make the handoff. I took some video with my phone.
 
 </div>
 
@@ -562,6 +579,10 @@ a few more things attached to him when we're in the middle of nowhere (like a
 leash, for example). We're also thinking about getting him a vest attaching a
 [Garmin inReach Mini](https://buy.garmin.com/en-US/US/p/592606) and a bunch of
 [Pawket Treats](https://www.pawkettreats.com/).
+
+Thank you Grayson, Jeremy, Craig, Art, and everyone on the internet that helped
+get Baxter home. We couldn't have done it without you! Maupin is such a
+friendly/fun town and we hope to be back soon to buy everyone dinner.
 
 ---
 
