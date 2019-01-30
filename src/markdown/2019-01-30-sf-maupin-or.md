@@ -534,11 +534,19 @@ ride. Nice!
 To help make things a bit easier for Art, I offer to drive closer to the ranch
 instead of meeting him in Bend. We decide on Madras, which is a 10-15 minutes
 away from the ranch. I meet Art and Baxter in the McDonalds parking lot in
-Madras and we make the handoff. I took some video with my phone.
+Madras and we make the handoff. I took some video with my phone [on
+Instagram](https://www.instagram.com/huntca/).
 
 </div>
 
-VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/hQm28xICtoA"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 <div class='text'>
 

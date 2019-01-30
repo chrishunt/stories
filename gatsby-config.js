@@ -47,6 +47,7 @@ module.exports = {
               quality: 60,
             },
           },
+          `gatsby-remark-responsive-iframe`
         ],
       },
     },
