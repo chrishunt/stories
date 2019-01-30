@@ -14,6 +14,7 @@ const IndexPage = ({
 }) => {
   const Stories = edges
     .filter(edge => !!edge.node.frontmatter.date)
+    .filter(edge => !!edge.node.frontmatter.published)
     .map(edge => <StoryLink key={edge.node.id} post={edge.node} />)
 
   return <Layout>
@@ -63,6 +64,7 @@ export const pageQuery = graphql`
             path
             title
             subtitle
+            published
             cover_image {
               publicURL
               childImageSharp {

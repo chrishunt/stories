@@ -4,6 +4,7 @@ date: "2018-11-29"
 title: "SF, Trona, DV"
 subtitle: "Maiden voyage with the 'popper'"
 cover_image: "../images/2018-11-29-sf-trona-dv/cover.jpg"
+published: true
 ---
 
 <div class='text'>

@@ -4,6 +4,7 @@ date: "2018-12-14"
 title: "SF, Merced River"
 subtitle: "Dead ends, dogs, and gravel roads"
 cover_image: "../images/2018-12-14-merced-river/cover.jpg"
+published: true
 ---
 
 <div class='text'>
