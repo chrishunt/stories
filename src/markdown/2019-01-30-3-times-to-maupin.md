@@ -1,9 +1,9 @@
 ---
 path: "/sf-maupin-or"
-date: "2019-01-29"
+date: "2019-01-30"
 title: "SF, Maupin, OR"
 subtitle: "24 days, 3 trips, 2 ticks, 1 found dog"
-cover_image: "../images/2019-01-29-sf-maupin-or/cover.jpg"
+cover_image: "../images/2019-01-30-sf-maupin-or/cover.jpg"
 published: false
 ---
 
@@ -20,7 +20,7 @@ But *(spoiler alert)* we were wrong...
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/00.jpg)
+![](../images/2019-01-30-sf-maupin-or/00.jpg)
 
 <div class='text'>
 
@@ -41,7 +41,7 @@ since and have moved from Seattle to SF to Portland and now back to to SF.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/00-1.jpg)
+![](../images/2019-01-30-sf-maupin-or/00-1.jpg)
 
 <div class='text'>
 
@@ -53,7 +53,7 @@ answered hoping it was someone calling about Baxter... and it was.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/01.jpg)
+![](../images/2019-01-30-sf-maupin-or/01.jpg)
 
 <div class='text'>
 
@@ -74,7 +74,7 @@ here's a pretty photo of where we camped the next night:
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/02.jpg)
+![](../images/2019-01-30-sf-maupin-or/02.jpg)
 
 <div class='text'>
 
@@ -92,7 +92,7 @@ ourselves.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/03.jpg)
+![](../images/2019-01-30-sf-maupin-or/03.jpg)
 
 <div class='text'>
 
@@ -104,7 +104,7 @@ lives there.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/03-1.jpg)
+![](../images/2019-01-30-sf-maupin-or/03-1.jpg)
 
 <div class='text'>
 
@@ -118,7 +118,7 @@ probably would too.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/06.jpg)
+![](../images/2019-01-30-sf-maupin-or/06.jpg)
 
 <div class='text'>
 
@@ -141,7 +141,7 @@ were looking good.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/07.jpg)
+![](../images/2019-01-30-sf-maupin-or/07.jpg)
 
 <div class='text'>
 
@@ -166,7 +166,7 @@ every house along the way to see if Baxter might have backtracked.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/04.jpg)
+![](../images/2019-01-30-sf-maupin-or/04.jpg)
 
 <div class='text'>
 
@@ -177,7 +177,7 @@ resume the search.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/05.jpg)
+![](../images/2019-01-30-sf-maupin-or/05.jpg)
 
 <div class='text'>
 
@@ -189,7 +189,7 @@ for Grayson. He got there a bit early again and let us inside.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/09.jpg)
+![](../images/2019-01-30-sf-maupin-or/09.jpg)
 
 <div class='text'>
 
@@ -202,7 +202,7 @@ We called his name and yelled some of his favorite words (... like "treats").
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/10.jpg)
+![](../images/2019-01-30-sf-maupin-or/10.jpg)
 
 <div class='text'>
 
@@ -215,7 +215,7 @@ able to catch him.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/11.jpg)
+![](../images/2019-01-30-sf-maupin-or/11.jpg)
 
 <div class='text'>
 
@@ -232,7 +232,7 @@ the giant cats and angry badgers.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/12.jpg)
+![](../images/2019-01-30-sf-maupin-or/12.jpg)
 
 <div class='text'>
 
@@ -245,7 +245,7 @@ colder and colder, which isn't great for camping.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/13.jpg)
+![](../images/2019-01-30-sf-maupin-or/13.jpg)
 
 <div class='text'>
 
@@ -256,13 +256,13 @@ also got the wine going.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/14.jpg)
+![](../images/2019-01-30-sf-maupin-or/14.jpg)
 
-![](../images/2019-01-29-sf-maupin-or/15.jpg)
+![](../images/2019-01-30-sf-maupin-or/15.jpg)
 
-![](../images/2019-01-29-sf-maupin-or/16.jpg)
+![](../images/2019-01-30-sf-maupin-or/16.jpg)
 
-![](../images/2019-01-29-sf-maupin-or/17.jpg)
+![](../images/2019-01-30-sf-maupin-or/17.jpg)
 
 <div class='text'>
 
@@ -280,7 +280,7 @@ back to San Francisco.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/18.jpg)
+![](../images/2019-01-30-sf-maupin-or/18.jpg)
 
 <div class='text'>
 
@@ -303,11 +303,11 @@ happen to take photos as I walk home.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/19.jpg)
+![](../images/2019-01-30-sf-maupin-or/19.jpg)
 
-![](../images/2019-01-29-sf-maupin-or/20.jpg)
+![](../images/2019-01-30-sf-maupin-or/20.jpg)
 
-![](../images/2019-01-29-sf-maupin-or/21.jpg)
+![](../images/2019-01-30-sf-maupin-or/21.jpg)
 
 <div class='text'>
 
@@ -324,7 +324,7 @@ there's not enough to keep the population down.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/23.jpg)
+![](../images/2019-01-30-sf-maupin-or/23.jpg)
 
 <div class='text'>
 
@@ -341,7 +341,7 @@ brown dog standing there.  He doesn't recognize the dog and the dog is scared
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/24.jpg)
+![](../images/2019-01-30-sf-maupin-or/24.jpg)
 
 <div class='text'>
 
@@ -358,7 +358,7 @@ jerky. The dog is now his best friend and jumps up into the truck on his own.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/25.jpg)
+![](../images/2019-01-30-sf-maupin-or/25.jpg)
 
 <div class='text'>
 
@@ -373,7 +373,7 @@ it to Facebook. Anyone recognize this dog??
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/21-1.jpg)
+![](../images/2019-01-30-sf-maupin-or/21-1.jpg)
 
 <div class='text'>
 
@@ -387,7 +387,7 @@ however, because cell service isn't that great out there in Maupin.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/26.jpg)
+![](../images/2019-01-30-sf-maupin-or/26.jpg)
 
 <div class='text'>
 
@@ -405,7 +405,7 @@ and here we are hearing the story.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/27.jpg)
+![](../images/2019-01-30-sf-maupin-or/27.jpg)
 
 <div class='text'>
 
@@ -422,7 +422,7 @@ one little issue... he didn't know if he still had the dog.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/28.jpg)
+![](../images/2019-01-30-sf-maupin-or/28.jpg)
 
 <div class='text'>
 
@@ -440,7 +440,7 @@ home to confirm that he still had him. *This was probably the longest hour ever
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/29.jpg)
+![](../images/2019-01-30-sf-maupin-or/29.jpg)
 
 <div class='text'>
 
@@ -455,7 +455,7 @@ would do this trip solo.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/30.jpg)
+![](../images/2019-01-30-sf-maupin-or/30.jpg)
 
 <div class='text'>
 
@@ -473,7 +473,7 @@ sounded like a great idea to me.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/31.jpg)
+![](../images/2019-01-30-sf-maupin-or/31.jpg)
 
 <div class='text'>
 
@@ -491,7 +491,7 @@ along the way and letting me know that Baxter will be safe until I get there.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/32.jpg)
+![](../images/2019-01-30-sf-maupin-or/32.jpg)
 
 <div class='text'>
 
@@ -503,7 +503,7 @@ during the night to run the heater and give him some food and water.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/33.jpg)
+![](../images/2019-01-30-sf-maupin-or/33.jpg)
 
 <div class='text'>
 
@@ -538,7 +538,7 @@ Winter" to his resume. We've officially updated his title on LinkedIn from
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/34.jpg)
+![](../images/2019-01-30-sf-maupin-or/34.jpg)
 
 <div class='text'>
 
@@ -551,7 +551,7 @@ walk in the park I guess.
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/36.jpg)
+![](../images/2019-01-30-sf-maupin-or/36.jpg)
 
 <div class='text'>
 
@@ -570,6 +570,6 @@ here](/follow/).
 
 </div>
 
-![](../images/2019-01-29-sf-maupin-or/35.jpg)
+![](../images/2019-01-30-sf-maupin-or/35.jpg)
 
-![](../images/2019-01-29-sf-maupin-or/35-1.jpg)
+![](../images/2019-01-30-sf-maupin-or/35-1.jpg)
