@@ -252,8 +252,8 @@ exploring. It's the kind of place you visit, then never visit again.
 
 ---
 
-If you'd like to get an email the next time I post something, [subscribe
-here](/follow/).
+Thanks for reading. If you'd like to get an email the next time I post
+something, [subscribe here](/follow/).
 
 </div>
 

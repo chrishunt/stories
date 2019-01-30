@@ -295,8 +295,8 @@ just stuff we want to bolt onto the truck). We got home with this list:
 
 ---
 
-If you'd like to get an email the next time I post something, [subscribe
-here](/follow/).
+Thanks for reading. If you'd like to get an email the next time I post
+something, [subscribe here](/follow/).
 
 </div>
 

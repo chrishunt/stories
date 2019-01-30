@@ -594,8 +594,8 @@ friendly/fun town and we hope to be back soon to buy everyone dinner.
 
 ---
 
-If you'd like to get an email the next time I post something, [subscribe
-here](/follow/).
+Thanks for reading. If you'd like to get an email the next time I post
+something, [subscribe here](/follow/).
 
 </div>
 
