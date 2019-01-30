@@ -12,7 +12,7 @@ published: false
 About a month ago we [lost our dog](/ca-xmas-or) Baxter on a camping trip in
 Maupin, Oregon. It sucked. We looked as best we could while we were there and
 finally decided to plaster 'lost dog' posters everywhere, share on social
-media, and head back home to San Francisco without the dog. Temperates were
+media, and head back home to San Francisco without the dog. Temperatures were
 well below freezing and everyone warned us about mountain lions and angry
 badgers. We didn't expect to ever see Baxter again.
 
@@ -37,7 +37,7 @@ old.
 We first met Baxter a few weeks later when he was scooped up and flown to a
 clinic in Seattle, Washington (along with a bunch of other wondering dogs).
 This is where we adopted him 8 years ago and named him Baxter. We've had him
-since and have moved from Seattle to SF to Portland and now back to to SF.
+since and have moved from Seattle to SF to Portland and now back to SF.
 
 We always tell this story about Baxter because it makes him sounds like a
 badass. He's a survivor. In reality, however, we call him "Couch Dog" and
@@ -177,7 +177,7 @@ looked for footprints or poop. We saw nothing.
 Grayson was there with us the entire time helping us look. He seemed to be
 going really out of his way and we can't thank him enough. You're amazing
 Grayson! We couldn't find Baxter at North Junction and the sun was starting to
-set, so we heading back towards the locked gate in the trucks and stopped at
+set, so we headed back towards the locked gate in the trucks and stopped at
 every house along the way to see if Baxter might have backtracked.
 
 
@@ -231,7 +231,7 @@ able to catch him.
 
 <div class='text'>
 
-## Lost him a second time
+## Lost him again
 
 The drive back home from Maupin was a sad one, similar to when we left the
 first time. We both tried not to get our hopes up, but when Bax was spotted
@@ -445,8 +445,8 @@ You see, Craig didn't have a place to put the dog and had left him resting on
 his porch while doing some errands around the ranch... probably not a big deal
 and he was pretty sure he was still there. I mean, no big deal right? In
 retrospect, Craig said he would have put the dog in a crate or his house if he
-knew the story, but this was just some random dog and he had no idea he was
-walking around lost without his people for 24 days.
+knew the story, but this was just some random dog and he had no idea the dude
+was walking around lost without his people for 24 days.
 
 I'm still talking to Craig on the phone at this point and he's about an hour
 away from the porch that probably has Baxter on it. He said he'd give me call
@@ -584,7 +584,7 @@ walk in the park I guess.
 
 Time to go camping! It's going to be business as usual, except Baxter may have
 a few more things attached to him when we're in the middle of nowhere (like a
-leash, for example). We're also thinking about getting him a vest attaching a
+leash, for example). We're thinking about getting him a vest and attaching a
 [Garmin inReach Mini](https://buy.garmin.com/en-US/US/p/592606) and a bunch of
 [Pawket Treats](https://www.pawkettreats.com/).
 
