@@ -12,9 +12,13 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-      <SEO title={frontmatter.title} keywords={
-        [`adventure`, `overland`, `blog`, `outdoors`, `tacoma`, `offroad`]
-      } />
+      <SEO
+        title={frontmatter.title}
+        description={frontmatter.subtitle}
+        keywords={
+          [`adventure`, `overland`, `blog`, `outdoors`, `tacoma`, `offroad`]
+        }
+      />
       <div className="story-container">
         <div className="story">
           <div className="text title">
