@@ -4,7 +4,7 @@ date: "2019-02-27"
 title: "SF, CA, Coast"
 subtitle: "Four hours in the other direction"
 cover_image: "../images/2019-02-27-sf-ca-coast/cover.jpg"
-published: false
+published: true
 ---
 
 <div class='text'>
