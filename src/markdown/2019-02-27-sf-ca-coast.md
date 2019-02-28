@@ -14,11 +14,12 @@ Have you seen [Highway
 hadn't.  There's a lot of tourism and traffic along the coast and not too many
 free places to camp, but once you get past [Big
 Sur](https://en.wikipedia.org/wiki/Big_Sur) there's some fun to be had. A
-couple years ago I explored some of these forest roads, but hadn't been back
-since getting the truck.
+couple years ago I explored some of these forest roads on the motorcycle, but
+hadn't been back since getting the truck.
 
-With snow to the North and to the East, it was a good time to go the other
-direction. We found the dirt after some coffee and 4 hours of driving.
+With snow to the North in Oregon and to the East in the mountains, it was a
+good time to go the other direction. We left San Francisco and found adventure
+after 4 hours of driving and some coffee.
 
 </div>
 
@@ -28,15 +29,15 @@ direction. We found the dirt after some coffee and 4 hours of driving.
 
 <div class='text'>
 
-## Clear our schedule
+## Clear the schedules
 
 The [last couple trips](/sf-maupin-or) were basically rescue missions and not a
 lot of time to relax and explore. This weekend was the opposite. We finally had
 the dog back and a couple days with nothing to do. The plan was to drive South
 and just find a place to make dinner and sleep. Our friend
 [Clyde](https://www.instagram.com/frisco_native1/) recommended an area to check
-out. We followed 40 miles or so of random lines on
-[GAIA](https://www.gaiagps.com) that looked to go in the right direction.
+out. We followed 40 miles of random lines on [GAIA](https://www.gaiagps.com)
+that looked to go in the right direction.
 
 Along the way we dropped pins on places that would be nice to camp someday.
 We're thinking about moving to Colorado this year, so 'someday' might be a
@@ -52,9 +53,10 @@ while :)
 
 <div class='text'>
 
-The dirt road changed names three times and dropped up and drown the ridge, but
-stayed mostly parallel to Highway 1. This would be a fun way to skip 9 miles of
-highway if you were heading up the coast and had an extra few hours.
+The name of the road changed three times and it dropped up and drown the ridge,
+but we stayed mostly parallel to Highway 1. This would be a fun way to skip 9
+miles of highway if you were heading up the coast and had a lot of time to
+kill.
 
 </div>
 
@@ -66,12 +68,12 @@ highway if you were heading up the coast and had an extra few hours.
 
 <div class='text'>
 
-## Camp, without a view
+## Camp with(out) a view
 
-With [Johnny Cash](https://en.wikipedia.org/wiki/Johnny_Cash) on repeat, we
-continued for the next couple hours in solitude, waiting for the sun to start
-dropping for the night. We explored some tight tangents and enjoyed a couple
-'oh shiiiit' moments that involved some careful reversing and permanent paint
+With our [Johnny Cash](https://en.wikipedia.org/wiki/Johnny_Cash) CD on repeat,
+we continued for the next couple hours in solitude, waiting for the sun to
+start dropping for the night. We explored some 'tight tangents' and enjoyed a
+couple 'oh shiiiit' moments that involved careful reversing and permanent paint
 damage. The passenger side now has an awesome pinstripe!
 
 </div>
@@ -82,10 +84,10 @@ damage. The passenger side now has an awesome pinstripe!
 
 <div class='text'>
 
-We waved to a few fellow campers and continued to the end of the road so we
+After waving to a few fellow campers, we continued to the end of the road so we
 could have some privacy. We hadn't see people all day, but once we got closer
-to the highway and the sun started going down, we started seeing quite a few.
-The coast is popular.
+to the highway and the sun started going down, we started seeing people
+everywhere. The coast is popular.
 
 We found a nice spot in the trees - no view of the ocean, but great wind
 protection and lots of green things to look at. Louisa and Baxter went on fire
@@ -104,12 +106,13 @@ Netflix and went to sleep around 9.
 
 <div class='text'>
 
-## Good morning
+## Good morning sunshine
 
 The sun is rising earlier now, so we rose earlier as well. I think we were up
 at 6 and decided to pack up camp and head out without even making coffee. We
-don't eat breakfast anymore, so mornings are snappy if we skip the coffee as
-well.
+don't eat breakfast anymore, so mornings are snappy if we skip the caffeine.
+Baxter is still on the breakfast routine, so we took a few minutes to get him
+fed.
 
 </div>
 
