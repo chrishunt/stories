@@ -17,9 +17,8 @@ Sur](https://en.wikipedia.org/wiki/Big_Sur) there's some fun to be had. A
 couple years ago I explored some of these forest roads on the motorcycle, but
 hadn't been back since getting the truck.
 
-With snow to the North in Oregon and to the East in the mountains, it was a
-good time to go the other direction. We left San Francisco and found adventure
-after 4 hours of driving and some coffee.
+With the snow to the North and East, it was a good time to go South. We left
+San Francisco and found adventure after 4 hours of driving and some coffee.
 
 </div>
 
@@ -70,11 +69,11 @@ kill.
 
 ## Camp with(out) a view
 
-With our [Johnny Cash](https://en.wikipedia.org/wiki/Johnny_Cash) CD on repeat,
-we continued for the next couple hours in solitude, waiting for the sun to
-start dropping for the night. We explored some 'tight tangents' and enjoyed a
-couple 'oh shiiiit' moments that involved careful reversing and permanent paint
-damage. The passenger side now has an awesome pinstripe!
+With our Johnny Cash [compact disc](https://en.wikipedia.org/wiki/Compact_disc)
+on repeat, we continued for the next couple hours in solitude, waiting for the
+sun to start dropping for the night. We explored some tight tangents and
+enjoyed a couple exciting moments that involved careful reversing and permanent
+paint damage. The passenger side now has an awesome pinstripe!
 
 </div>
 
@@ -86,8 +85,7 @@ damage. The passenger side now has an awesome pinstripe!
 
 After waving to a few fellow campers, we continued to the end of the road so we
 could have some privacy. We hadn't see people all day, but once we got closer
-to the highway and the sun started going down, we started seeing people
-everywhere. The coast is popular.
+to the highway, we started seeing people everywhere. The coast is popular.
 
 We found a nice spot in the trees - no view of the ocean, but great wind
 protection and lots of green things to look at. Louisa and Baxter went on fire
@@ -106,7 +104,7 @@ Netflix and went to sleep around 9.
 
 <div class='text'>
 
-## Good morning sunshine
+## Good morning
 
 The sun is rising earlier now, so we rose earlier as well. I think we were up
 at 6 and decided to pack up camp and head out without even making coffee. We
@@ -129,10 +127,10 @@ to continue further down a different road to the South that looked to connect
 back to the highway... and it did. We ended up making a nice little loop and
 saved some time in the process.
 
-It took us 3 hours to get to the camp spot yesterday and about an hour to get
-back out. The roads coming out of camp were smooth and fast. A couple hikers we
-passed even made facial expressions and hand gestures that suggested we may
-have been going *too* fast.
+It took us 3 hours to get to camp and about an hour to get back out. The roads
+coming out of camp were smooth and fast. A couple hikers we passed even made
+facial expressions and hand gestures that suggested we may have been going
+*too* fast.
 
 </div>
 
@@ -154,14 +152,14 @@ you can see some of that beautiful pinstriping I mentioned earlier.
 ## Back up the coast
 
 We eventually made it to Highway 1 and droned it back North to SF, arriving
-home around 2. Traffic was light and the drive is easy. We stopped in Santa
+home around 2. Traffic was light and the drive was easy. We stopped in Santa
 Cruz at the "You Do It Car Wash" to get the truck ready for the next adventure.
 
 [Roaming Lost](https://www.instagram.com/roaminglost/) is coordinating a
 cleanup event near Joshua Tree in a bit over a week and I think that's where
-we're headed next. The drive is long, but it will be fun to do some cleaning
-and meet some folks from the internet. If you have some trash bags and want to
-join this (free) event, the details are here:
+we're headed next. The drive is a bit long, but it will be fun to do some
+cleaning and meet some folks from the internet. If you have some trash bags and
+want to join this (free) event, the details are here:
 [roaminglost.co](https://www.roaminglost.co/blog/2019/1/28/roaming-lost-blm-cleanup-camp-raffle)
 
 ---
